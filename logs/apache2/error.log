@@ -1,0 +1,6 @@
+[Mon Sep 26 06:48:50.488369 2016] [core:warn] [pid 40] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 26 06:48:50.730263 2016] [mpm_prefork:notice] [pid 40] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.6 configured -- resuming normal operations
+[Mon Sep 26 06:48:50.730408 2016] [core:notice] [pid 40] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Sep 26 06:49:48.337651 2016] [core:warn] [pid 40] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 26 06:49:48.353373 2016] [mpm_prefork:notice] [pid 40] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.6 configured -- resuming normal operations
+[Mon Sep 26 06:49:48.353448 2016] [core:notice] [pid 40] AH00094: Command line: '/usr/sbin/apache2'
